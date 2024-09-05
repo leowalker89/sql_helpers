@@ -1,1 +1,40 @@
 /.whisper
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/
+
+# IDE-related
+.vscode/
+.idea/
+
+# OS-related
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Other
+*.bak
+*.swp
+*.swo

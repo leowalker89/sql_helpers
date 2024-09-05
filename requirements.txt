@@ -1,0 +1,12 @@
+streamlit
+pandas
+langchain-openai
+langchain-anthropic
+langchain-google-genai
+langchain-groq
+langchain-fireworks
+langchain-core
+langchain
+pydantic
+python-dotenv
+asyncio
